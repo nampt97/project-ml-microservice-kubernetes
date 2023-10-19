@@ -1,4 +1,8 @@
-<include a CircleCI status badge, here>
+## Badges
+
+
+### CircleCI Status
+[![<CircleCI>](https://circleci.com/gh/nampt97/project-ml-microservice-kubernetes.svg?style=svg)](https://github.com/nampt97/project-ml-microservice-kubernetes)
 
 ## Project Overview
 
